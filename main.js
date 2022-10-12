@@ -754,3 +754,5 @@ const checkAnswer = () => {
     }
     return scoreRight, scoreWrong, i;
 };
+
+//Adding stuff for the commit.
